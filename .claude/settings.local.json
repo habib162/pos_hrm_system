@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(composer create-project:*)",
+      "Bash(composer require:*)",
+      "Bash(php artisan:*)",
+      "Bash(mysql -u root -e \"CREATE DATABASE IF NOT EXISTS pos_system CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;\")",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(./node_modules/.bin/tailwindcss init:*)",
+      "Bash(node_modules/.bin/tailwindcss.cmd init:*)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
