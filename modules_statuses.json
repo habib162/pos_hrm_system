@@ -1,0 +1,7 @@
+{
+    "Core": true,
+    "Settings": true,
+    "POS": true,
+    "HRM": true,
+    "Reports": true
+}
